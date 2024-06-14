@@ -1,0 +1,13 @@
+[submodule "themes/hugo_theme_pickles"]
+	path = themes/hugo_theme_pickles
+	url = https://github.com/mismith0227/hugo_theme_pickles
+	branch = release
+[submodule "themes/hugo-flex"]
+	path = themes/hugo-flex
+	url = https://github.com/ldeso/hugo-flex.git
+[submodule "hugo-kiera"]
+	path = hugo-kiera
+	url = https://github.com/funkydan2/hugo-kiera.git
+[submodule "themes/hugo-kiera"]
+	path = themes/hugo-kiera
+	url = https://github.com/funkydan2/hugo-kiera.git
