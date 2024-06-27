@@ -1,7 +1,7 @@
 baseURL = 'https://foils.site/'
 languageCode = 'zh-cn'
 title = "LebranceBW's Site"
-theme = 'Typo'
+theme = 'typo'
 [params]
 # Meta description
 description = "A Tech Blog"
@@ -10,16 +10,13 @@ description = "A Tech Blog"
 theme = 'auto'
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hi!'
 homeIntroContent = """
-I am an Italian Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
-I am interested in a range of topics, including algorithms, distributed systems, databases, and information retrieval.
+落叶无归更，单丝不成线 --《若把你》
 """
 
 # Collection to display on home
 homeCollectionTitle = 'Posts'
 homeCollection = 'posts'
-
 # Lists parameters
 paginationSize = 100
 listSummaries = true
